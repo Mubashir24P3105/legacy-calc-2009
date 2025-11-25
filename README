@@ -1,6 +1,6 @@
-Legacy Loan Calculator – Refactored Version (Assignment 2)
+Legacy Loan Calculator (Assignment 2)
 
-This project is part of Software Engineering – Assignment 2, where we take an old legacy C++ loan/EMI calculator and modernize it using software-engineering practices.
+we take an old legacy C++ loan/EMI calculator and modernize it using software-engineering practices.
 The original project was forked from:
 
 https://github.com/bradyallenjohnson/LoanCalculatorCpp
@@ -62,4 +62,4 @@ Refactoring Improvements
 
 Authors
 Mubashir Ahmed 24P-3105
-Muhmmad muzammil ayan 24P-3044
+Muhammad Ahmed 24P-XXXX
